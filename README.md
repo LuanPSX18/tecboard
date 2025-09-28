@@ -2,3 +2,5 @@
 
 
 O projeto vai do básico ao avançado, desde ententer o que é um componente JSX a hooks e props até o deploy.
+
+Acesse o site: https://luanpsx18.github.io/tecboard/
