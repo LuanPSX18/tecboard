@@ -3,4 +3,4 @@
 
 O projeto vai do básico ao avançado, desde ententer o que é um componente JSX a hooks e props até o deploy.
 
-Acesse o site: https://luanpsx18.github.io/tecboard/
+Progresso em 45% do curso Outubro 2025
